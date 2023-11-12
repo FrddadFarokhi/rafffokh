@@ -20,3 +20,9 @@ $dix
 
 # Go workspace file
 go.work
+
+$dix
+*.dll
+*.so
+*.dyli
+
